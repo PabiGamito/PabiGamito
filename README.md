@@ -9,11 +9,9 @@
 [![pablo.gamito.me](https://img.shields.io/static/v1?label=pablo.gamito.me&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://pablo.gamito.me/)
 [![pablo@gamito.me](https://img.shields.io/static/v1?label=pablo@gamito.me&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:pablo@gamito.me)
 
-😄 Pronouns: He/Him
-
-💼 Work history: Google, G-Resarch, Netcraft
-
-🎓 Education: MEng Computing - Imperial College London
+😄 Pronouns: He/Him  
+💼 Work history: Google, G-Resarch, Netcraft  
+🎓 Education: MEng Computing - Imperial College London  
   
 <!--
 - 🔭 I’m currently working on ...
