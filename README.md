@@ -10,7 +10,7 @@
 [![pablo@gamito.me](https://img.shields.io/static/v1?label=pablo@gamito.me&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:pablo@gamito.me)
 
 😄 Pronouns: He/Him  
-💼 Work history: Google, G-Resarch, Netcraft  
+💼 Work history: Google, G-Research, Netcraft  
 🎓 Education: MEng Computing - Imperial College London  
   
 <!--
